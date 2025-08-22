@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/Cashfree/pom.xml" />
         <option value="$PROJECT_DIR$/Apigateway/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/Payment/pom.xml" />
       </list>
     </option>
   </component>
